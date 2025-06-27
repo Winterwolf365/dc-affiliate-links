@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "name": "Depositum Custodi Extension",
+    "version": "1.3",
+    "description": "Voegt automatisch affiliate codes toe aan bol.com, amazon.nl en coolblue.nl, en biedt snelle toegang tot partnerlinks.",
+    "permissions": [
+        "tabs",
+        "scripting",
+        "webNavigation"
+    ],
+    "host_permissions": [
+        "https://www.bol.com/*",
+        "https://www.amazon.nl/*",
+        "https://www.coolblue.nl/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_icon": {
+            "16": "dc_logo_wapen.png",
+            "48": "dc_logo_wapen.png",
+            "128": "dc_logo_wapen.png"
+        },
+        "default_title": "Depositum Custodi",
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "dc_logo_wapen.png",
+        "48": "dc_logo_wapen.png",
+        "128": "dc_logo_wapen.png"
+    }
+}

@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 16px;
+    width: 260px;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.icon-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.icon-link {
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.icon-link img {
+    width: 48px;
+    height: 48px;
+}
+
+.icon-link:hover img {
+    filter: brightness(0.8);
+}
