@@ -1,5 +1,4 @@
-![Gif die het automatisch toevoegen van affiliate codes laat zien.](media/voorbeeld/automatisch_affiliate_codes_toevoegen.mp4)
-
+![Gif die het automatisch toevoegen van affiliate codes laat zien.](https://github.com/user-attachments/assets/c62364f9-5ec5-4579-a695-83f697ac137f)
 
 # Depositum Custodi
 
