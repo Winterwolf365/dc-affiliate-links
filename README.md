@@ -14,4 +14,4 @@ Kloon het project
   git clone https://github.com/Winterwolf365/dc-affiliate-links
 ```
 
-Installeer het als een onverpakte extentie, hoe je dat doet zie je [hier](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
+Installeer het als een uitgepakte extentie, hoe je dat doet zie je [hier](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
