@@ -18,16 +18,16 @@
     },
     "action": {
         "default_icon": {
-            "16": "dc_logo_wapen.png",
-            "48": "dc_logo_wapen.png",
-            "128": "dc_logo_wapen.png"
+            "16": "media/dc_logo_wapen.png",
+            "48": "media/dc_logo_wapen.png",
+            "128": "media/dc_logo_wapen.png"
         },
         "default_title": "Depositum Custodi",
         "default_popup": "popup.html"
     },
     "icons": {
-        "16": "dc_logo_wapen.png",
-        "48": "dc_logo_wapen.png",
-        "128": "dc_logo_wapen.png"
+        "16": "media/dc_logo_wapen.png",
+        "48": "media/dc_logo_wapen.png",
+        "128": "media/dc_logo_wapen.png"
     }
 }
