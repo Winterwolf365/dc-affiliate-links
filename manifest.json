@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Depositum Custodi Extension",
+  "name": "Depositum Custodi Affiliate Links",
   "version": "2.0",
   "description": "Voegt automatisch affiliate codes toe aan bol.com, amazon.nl en coolblue.nl, voor de studentenverenging Deposito Custodi.",
   "permissions": [
