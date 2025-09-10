@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "addOrReplaceParams": [
+              { "key": "Referrer", "value": "ADVNLPPcef594008952a38b00000000000f0020577" }
+            ]
+          }
+        }
+      }
+    },
+    "condition": {
+      "urlFilter": "||bol.com/*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "addOrReplaceParams": [
+              { "key": "tag", "value": "depositumcust-21" }
+            ]
+          }
+        }
+      }
+    },
+    "condition": {
+      "urlFilter": "||amazon.nl/*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "addOrReplaceParams": [
+              { "key": "ref", "value": "293530" }
+            ]
+          }
+        }
+      }
+    },
+    "condition": {
+      "urlFilter": "||coolblue.nl/*",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
