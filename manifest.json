@@ -23,20 +23,18 @@
   },
   "action": {
     "default_icon": {
-      "16": "media/dc-logo-wapen/logo-16.png",
-      "32": "media/dc-logo-wapen/logo-32.png",
-      "34": "media/dc-logo-wapen/logo-34.png",
-      "48": "media/dc-logo-wapen/logo-48.png",
-      "128": "media/dc-logo-wapen/logo-128.png"
+      "16": "media/dc_logo_wapen.png",
+      "32": "media/dc_logo_wapen.png",
+      "48": "media/dc_logo_wapen.png",
+      "128": "media/dc_logo_wapen.png"
     },
     "default_title": "Depositum Custodi Affiliate Links",
     "default_popup": "popup.html"
   },
   "icons": {
-      "16": "media/dc-logo-wapen/logo-16.png",
-      "32": "media/dc-logo-wapen/logo-32.png",
-      "34": "media/dc-logo-wapen/logo-34.png",
-      "48": "media/dc-logo-wapen/logo-48.png",
-      "128": "media/dc-logo-wapen/logo-128.png"
+      "16": "media/dc_logo_wapen.png",
+      "32": "media/dc_logo_wapen.png",
+      "48": "media/dc_logo_wapen.png",
+      "128": "media/dc_logo_wapen.png"
   }
 }
