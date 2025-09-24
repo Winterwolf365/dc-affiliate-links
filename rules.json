@@ -8,7 +8,11 @@
         "transform": {
           "queryTransform": {
             "addOrReplaceParams": [
-              { "key": "Referrer", "value": "ADVNLPPcef594008952a38b00000000000f0020577" }
+              { "key": "Referrer", "value": "ADVNLPPcef594008952a38b00000000000f0020577" },
+              { "key": "utm_source", "value": "20577" },
+              { "key": "utm_medium", "value": "Affiliates" },
+              { "key": "utm_campaign", "value": "CPS" },
+              { "key": "utm_content", "value": "txl" }
             ]
           }
         }
@@ -28,7 +32,11 @@
         "transform": {
           "queryTransform": {
             "addOrReplaceParams": [
-              { "key": "tag", "value": "depositumcust-21" }
+              { "key": "ie", "value": "UTF8" },
+              { "key": "linkCode", "value": "sl2" },
+              { "key": "tag", "value": "depositumcust-21" },
+              { "key": "linkId", "value": "5dcc8c837cf61e46349c1902dd28177f" },
+              { "key": "language", "value": "nl_NL" }
             ]
           }
         }
@@ -48,7 +56,17 @@
         "transform": {
           "queryTransform": {
             "addOrReplaceParams": [
-              { "key": "ref", "value": "293530" }
+              { "key": "clickref", "value": "85161_1758716786_ca509bb9835d632e625450f4f21db523" },
+              { "key": "utm_source", "value": "awin" },
+              { "key": "utm_medium", "value": "affiliate" },
+              { "key": "utm_campaign", "value": "Domain Parking" },
+              { "key": "utm_content", "value": "85161_1758716786_ca509bb9835d632e625450f4f21db523" },
+              { "key": "utm_term", "value": "372167" },
+              { "key": "ref", "value": "293530" },
+              { "key": "cmt", "value": "c_aw,apm_Domain Parking,acid_85161,acr_372167,aclr_85161_1758716786_ca509bb9835d632e625450f4f21db523" },
+              { "key": "aw_subid", "value": "" },
+              { "key": "aw_link", "value": "0" },
+              { "key": "awc", "value": "85161_1758716786_ca509bb9835d632e625450f4f21db523" }
             ]
           }
         }
